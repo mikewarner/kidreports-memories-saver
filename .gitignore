@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore cookie file
+cookie_file
+
+# Ignore .zip memory files
+*.zip
