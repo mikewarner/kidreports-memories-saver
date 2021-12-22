@@ -19,6 +19,6 @@ Linux-like system with the ability to run a shell script. Curl must also be inst
 12) In a linux terminal, change the directory to the one where the script is saved
 13) Add the execute flag to the script using `chmod +x kidreports-memories.sh`
 14) Run the scrip by typing `./kidreports-memories.sh`
-15) It will take several minutes to download each memory zip file
+15) The script will take several minutes to download each memory zip file
 16) Memories will be downloaded to the same folder as the script
 17) Using your favorite archive program unzip all the pictures and enjoy!
