@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Set Your Start Month/Year and End Month/Year (no validation so please make sure it is accurate)
 declare -i START_MONTH=4
